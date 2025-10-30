@@ -1,9 +1,9 @@
 ## Description
+> This code comes without technical support of any kind. The code is free to use, provided that the paper is cited properly.
+
 "Nowcasting in a Pandemic using Non-Parametric Mixed Frequency VARs" by Huber, F., Koop, G., Onorante, L., Pfarrhofer, M., and J. Schreiner, _Journal of Econometrics_, **232**(1), 2023, 52-69.
 - [Publication](https://doi.org/10.1016/j.jeconom.2020.11.006)
 - [Working paper](https://arxiv.org/abs/2008.12706)
-
-> This code comes without technical support of any kind. The code is free to use, provided that the paper is cited properly.
 
 ### Code files
 These files create a function mfbavart(...) to estimate the MF-BAVART model.
